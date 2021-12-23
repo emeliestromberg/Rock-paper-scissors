@@ -1,0 +1,34 @@
+notes
+
+/* welcome to game
+
+which type of game do you want to play?
+choose one of two alternative
+
+if best of three
+    run best of three program
+else if first to three wins
+    run first to three wins
+
+ check      --> få else if lika att funka 
+ check      --> fixa "Round 2:"
+ check      --> ny random varje gång
+            --> kunna få in player input som sträng
+ check      --> fixa så att winsp + winsc = 3 så att det funkar för när det är lika
+
+best of three program:
+- win counter
+- randomizer
+
+do you want to play again?
+if yes
+    what type of game
+            --> kunna köra programmet från början
+else if no
+    run sayGoodbye
+
+
+struktur
+    en allt i ett
+    en med klasser
+            --> dela upp det i importerade klasser
